@@ -20,4 +20,13 @@ Each blog post should include:
 - Consistent across all posts
 - Flexible but not breakable
 
+- ## Tone Reference
+
+Use content/brushed-vs-brushless-motors.md as the tone benchmark.
+
+All future posts should match this voice:
+- conversational
+- garage-style
+- practical, not overly technical
+
 The goal is to balance structure with flexibility.
