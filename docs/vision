@@ -1,0 +1,17 @@
+# Vision
+
+This project is for building a marketing-friendly blog/CMS system.
+
+The system should:
+- Be easy for marketing to use without developer support
+- Support clean, consistent article formatting
+- Allow internal linking to products and categories
+- Be scalable for SEO-driven content
+- Prevent users from breaking layout or structure
+
+Tone:
+- Simple
+- Practical
+- Not overly technical
+
+This should feel like a tool marketing owns, not engineering.
