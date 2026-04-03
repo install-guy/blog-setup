@@ -1,109 +1,134 @@
-# Build. Break. Fix. Repeat. — Why the Right Parts Matter
+# Brushed vs Brushless Motors: What’s Better for Your RC?
 
 ## Intro
-If you’ve been in the hobby for more than five minutes, you already know how this goes.
+“Should I go brushless?”  
 
-You build it.  
-You run it.  
-You break it.  
+We hear it all the time—and yeah, it’s a legit question.
 
-Then you’re right back at the bench figuring out what failed—and how to make it better.
+A brushless setup can completely wake a rig up. But that doesn’t mean brushed is dead.
 
-That’s the fun of it. And honestly, that’s where the right parts make all the difference.
+It really comes down to how you drive, where you run, and what you actually want out of your RC.
 
 ---
 
-## Where Stock Falls Short
-Most RTR setups are built to get you running fast—not to last forever.
+## The Core Difference (In Plain English)
 
-That means:
-- Plastic parts where metal should be
-- Components that flex under stress
-- Wear items that go quicker than you expect
+### Brushed motors
+Brushed systems use physical brushes to transfer power inside the motor.
 
-It’s not a knock—it’s just reality.
-
-But if you’re bashing harder, racing more, or just want reliability… upgrades aren’t optional.
-
----
-
-## The Parts That Actually Make a Difference
-
-### 🔩 Durability Upgrades
-Think:
-- Aluminum steering components  
-- Hardened steel gears  
-- Reinforced suspension parts  
-
-These are the pieces that take the hits so the rest of your rig doesn’t have to.
-
-👉 Browse durability upgrades:  
-/parts/durability-upgrades
+What that means in the real world:
+- Lower cost
+- Smooth, predictable power
+- Easy to get started with
+- More maintenance over time (brushes wear out)
 
 ---
 
-### ⚡ Performance Upgrades
-More speed, better response, tighter handling.
+### Brushless motors
+Brushless systems ditch the brushes and use electronics to control everything.
 
-Look at:
-- High-performance motors  
-- ESC upgrades  
-- Bearing kits  
+What you get:
+- More efficiency
+- More power and speed
+- Less motor maintenance
+- Higher upfront cost (motor + ESC combo)
 
-👉 Shop performance parts:  
-/parts/performance
+Neither is automatically better—it just depends on your setup.
 
----
-
-### 🔋 Power & Battery Setup
-This is where things get interesting.
-
-Running 3S vs 4S isn’t just about speed—it’s about:
-- Heat
-- Runtime
-- Stress on components
-
-👉 Explore batteries & chargers:  
-/parts/batteries
+👉 Explore motor and ESC options:  
+/collections/rc-motors-esc
 
 ---
 
-## Don’t Guess Fitment
-One of the biggest mistakes we see?
+## Where Each Setup Makes Sense
 
-Buying parts that *almost* fit.
+### Brushed makes sense when:
+- You’re just getting into the hobby
+- You want to keep costs down
+- You’re running in tighter spaces
+- You want smooth, easy-to-control power
 
-Skip the guesswork.
+Brushed setups are great for backyard bashing, learning, and keeping things simple.
 
-👉 Use the parts finder:  
+---
+
+### Brushless makes sense when:
+- You want real speed and punch
+- You’re racing or pushing hard
+- You’re ready to dial in gearing and temps
+- Your drivetrain can handle the power
+
+Brushless shines when the whole setup is ready for it.
+
+---
+
+## Before You Upgrade: 6 Things to Check
+
+Jumping to brushless without a plan? That’s how parts get smoked.
+
+1. **Vehicle compatibility**  
+   Make sure the motor size and ESC actually fit.
+
+2. **ESC + battery match**  
+   Your ESC needs to support your battery (2S / 3S / 4S).
+
+3. **Drivetrain strength**  
+   More power = more stress on gears, diffs, and shafts.
+
+4. **Gearing**  
+   Start conservative. Watch temps. Then adjust.
+
+5. **Surface**  
+   Big power on loose terrain can be harder to control than you think.
+
+6. **Your goal**  
+   Speed runs? Track laps? Crawling? Backyard fun?
+
+Know this first, and the decision gets easy.
+
+👉 Use the parts finder to confirm fitment:  
 /vehicles
 
-Find your exact model → see what actually fits → done.
+---
+
+## Common Upgrade Mistakes
+
+- Going straight to the hottest motor available  
+- Ignoring ESC setup and throttle curves  
+- Gearing too aggressively right away  
+- Skipping cooling upgrades  
+- Forgetting tires and suspension need to match the power  
+
+A balanced setup will always outperform an overpowered one that overheats.
+
+👉 Find cooling, gearing, and drivetrain upgrades:  
+/collections/rc-performance-parts
 
 ---
 
 ## Real Talk
-You don’t need to upgrade everything.
+Brushless is awesome—when it fits your build.
 
-But the right upgrades?
-They completely change how your rig feels—and how often you’re fixing it.
+But a dialed-in brushed setup? Still a blast.
+
+The goal isn’t just more speed. It’s a rig that feels right every time you pull the trigger.
 
 ---
 
 ## CTA
-Ready to upgrade?
+Ready to upgrade your power system?
 
-👉 Shop parts & upgrades  
-/parts
+👉 Shop motors, ESCs, and upgrade parts  
+/collections/rc-motors-esc  
 
-👉 Find parts for your exact vehicle  
+👉 Find what fits your exact vehicle  
 /vehicles
 
 ---
 
 ## Closing
-Build it better.  
-Run it harder.  
-Fix it smarter.  
+Build it right.  
+Tune it smart.  
+Drive it hard.
 
-We get it.
+That’s where the fun really starts.
