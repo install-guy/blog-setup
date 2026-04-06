@@ -12,6 +12,11 @@ Explain the main concept simply.
 
 Focus on clarity over technical depth. Help someone understand this quickly without overcomplicating it.
 
+Include exactly **1 natural inline internal link** somewhere in the body of the post.
+- The inline link can be a related blog post or a relevant product collection
+- Do not force it
+- Do not repeat that same link in the CTA
+
 ---
 
 ## When This Matters (Use Cases)
@@ -33,7 +38,6 @@ Focus on clarity over technical depth. Help someone understand this quickly with
 - Clear, practical bullets
 - Focus on real-world decisions and tradeoffs
 - Avoid overloading with technical jargon
-- Include **1 natural inline internal link** where it fits (blog or product)
 
 ---
 
@@ -60,10 +64,18 @@ This is where you simplify everything:
 - Learn more in [Related Post 1](/gearheads-gazette/example-post)
 - Continue with [Related Post 2](/gearheads-gazette/example-post)
 
-(Rules:)
-- Max 4 links in this section
-- Do not repeat links already used in the body
-- Keep it clean and scannable
+CTA rules:
+- Always use the heading `## Keep Your Rig Dialed`
+- Include 1 product collection link
+- Include 1 `/vehicles` link positioned as fitment help
+- Include 1-2 related blog post links only if they fit naturally
+- Keep the section clean and scannable with short bullets only
+- Do not repeat any link already used in the body
+
+Global link rules:
+- Total links per post must not exceed 5
+- Count all inline body links and CTA links together
+- Do not duplicate the same link more than once in a post
 
 ---
 
