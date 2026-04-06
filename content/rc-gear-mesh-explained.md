@@ -22,9 +22,9 @@ Why it matters:
 - It affects motor heat
 - It affects how long your gears last
 
-That is why gear mesh and gearing decisions are tied together. If you are changing pinion size, our guide on [choosing the right pinion gear](/blogs/news/how-to-choose-the-right-pinion-gear) is worth reading before you start chasing speed the hard way.
+That is why gear mesh and gearing decisions are tied together. If you are changing pinion size, our guide on [choosing the right pinion gear](/gearheads-gazette/how-to-choose-the-right-pinion-gear) is worth reading before you start chasing speed the hard way.
 
-Bad mesh can also show up as extra heat, so it connects directly to what we cover in the [motor temperature guide](/blogs/news/rc-motor-temperature-guide).
+Bad mesh can also show up as extra heat, so it connects directly to what we cover in the [motor temperature guide](/gearheads-gazette/rc-motor-temperature-guide).
 
 ---
 
@@ -39,7 +39,7 @@ Bad mesh can also show up as extra heat, so it connects directly to what we cove
 
 ### Scenario 3
 - You are dealing with unexplained motor heat or chewed-up spur gears
-- Gear mesh is one of the first things worth checking before blaming bigger parts or skipping past the basics in your [maintenance routine](/blogs/news/rc-car-maintenance)
+- Gear mesh is one of the first things worth checking before blaming bigger parts or skipping past the basics in your [maintenance routine](/gearheads-gazette/rc-car-maintenance)
 
 ---
 
@@ -76,9 +76,9 @@ A clean, properly meshed drivetrain is quieter, cooler, and easier on parts. It 
 ## CTA
 Need to freshen up worn gears or check fitment before your next swap?
 
-👉 Shop [gearing, cooling, and drivetrain upgrades](/collections/rc-performance-parts)
+ðŸ‘‰ Shop [gearing, cooling, and drivetrain upgrades](/collections/rc-performance-parts)
 
-👉 Use the [parts finder](/vehicles) to confirm what fits your vehicle
+ðŸ‘‰ Use the [parts finder](/vehicles) to confirm what fits your vehicle
 
 ---
 

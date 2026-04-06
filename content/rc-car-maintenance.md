@@ -24,7 +24,7 @@ A simple routine goes a long way:
 - Inspect high-stress parts
 - Fix small problems early
 
-You don't need a full teardown every time. You just need to stay ahead of the obvious trouble. And if you're already sorting out the rest of your setup, it helps to understand how supporting parts affect wear too, especially your [tires](/blogs/news/choosing-the-right-rc-tires), [battery setup](/blogs/news/lipo-batteries-101), and the heat side of things in our [motor temperature guide](/blogs/news/rc-motor-temperature-guide).
+You don't need a full teardown every time. You just need to stay ahead of the obvious trouble. And if you're already sorting out the rest of your setup, it helps to understand how supporting parts affect wear too, especially your [tires](/gearheads-gazette/choosing-the-right-rc-tires), [battery setup](/gearheads-gazette/lipo-batteries-101), and the heat side of things in our [motor temperature guide](/gearheads-gazette/rc-motor-temperature-guide).
 
 ---
 
@@ -87,9 +87,9 @@ The goal is a rig that's ready when you are.
 ## Keep Your Rig Running
 If you're replacing worn parts or freshening up a well-used rig, start with the basics:
 
-👉 Browse [maintenance and replacement parts](/collections/rc-maintenance-parts)
+ðŸ‘‰ Browse [maintenance and replacement parts](/collections/rc-maintenance-parts)
 
-👉 Use the [fitment tool](/vehicles) to find exact-fit parts for your vehicle
+ðŸ‘‰ Use the [fitment tool](/vehicles) to find exact-fit parts for your vehicle
 
 ---
 

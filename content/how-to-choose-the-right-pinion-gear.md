@@ -21,7 +21,7 @@ That is why gearing is always a balance:
 - Punch vs runtime
 - Performance vs reliability
 
-It also depends on what motor system you are running. If you are still comparing [brushed and brushless setups](/blogs/news/brushed-vs-brushless-motors), gearing changes can feel very different between the two.
+It also depends on what motor system you are running. If you are still comparing [brushed and brushless setups](/gearheads-gazette/brushed-vs-brushless-motors), gearing changes can feel very different between the two.
 
 Before you start swapping gears, it helps to have the right [drivetrain and performance parts](/collections/rc-performance-parts) ready so you are not trying to tune around worn hardware.
 
@@ -74,10 +74,10 @@ The smart move is usually small changes, short test runs, and honest temp checks
 ## CTA
 Trying to dial in your gearing the right way?
 
-👉 Shop gearing, cooling, and drivetrain upgrades  
+ðŸ‘‰ Shop gearing, cooling, and drivetrain upgrades  
 /collections/rc-performance-parts
 
-👉 Use the parts finder to confirm fitment before you buy  
+ðŸ‘‰ Use the parts finder to confirm fitment before you buy  
 /vehicles
 
 ---

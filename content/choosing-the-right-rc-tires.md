@@ -14,9 +14,9 @@ There is no best tire. Only the right tire for where you run.
 
 Street tires, all-terrain tread, loose-surface tires, and crawler compounds all behave differently because they are trying to solve different problems. That means the best tire choice depends on how much grip, side bite, flex, and durability your setup actually needs.
 
-That is also why tire choice changes depending on whether you are building more for casual abuse or track precision. Our guide to [bashing vs racing setup](/blogs/news/rc-bashing-vs-racing-setup) helps frame that decision if you are stuck between versatility and outright performance.
+That is also why tire choice changes depending on whether you are building more for casual abuse or track precision. Our guide to [bashing vs racing setup](/gearheads-gazette/rc-bashing-vs-racing-setup) helps frame that decision if you are stuck between versatility and outright performance.
 
-If the car still feels weird after a tire change, it is worth checking the basics in your [maintenance routine](/blogs/news/rc-car-maintenance) too. And when you are ready to shop, the right [RC tires](/collections/rc-tires) make all the difference.
+If the car still feels weird after a tire change, it is worth checking the basics in your [maintenance routine](/gearheads-gazette/rc-car-maintenance) too. And when you are ready to shop, the right [RC tires](/collections/rc-tires) make all the difference.
 
 ---
 
@@ -66,9 +66,9 @@ Fix that, and suddenly everything feels smoother, faster, and more predictable w
 ## CTA
 Ready to get real grip where you actually run?
 
-👉 Shop [RC tires by terrain and vehicle type](/collections/rc-tires)
+ðŸ‘‰ Shop [RC tires by terrain and vehicle type](/collections/rc-tires)
 
-👉 Use the [parts finder](/vehicles) to find exact-fit tire and wheel options
+ðŸ‘‰ Use the [parts finder](/vehicles) to find exact-fit tire and wheel options
 
 ---
 

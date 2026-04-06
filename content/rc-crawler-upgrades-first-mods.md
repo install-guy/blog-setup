@@ -18,7 +18,7 @@ That usually means focusing on the basics:
 - Steering that works under load
 - Parts that survive repeated trail abuse
 
-If your crawler does not have traction, the rest of the upgrade list gets a lot less exciting. That is why a good tire setup is usually the first real win, and our guide to [choosing the right RC tires](/blogs/news/choosing-the-right-rc-tires) is worth a look before you start spending money in the wrong place.
+If your crawler does not have traction, the rest of the upgrade list gets a lot less exciting. That is why a good tire setup is usually the first real win, and our guide to [choosing the right RC tires](/gearheads-gazette/choosing-the-right-rc-tires) is worth a look before you start spending money in the wrong place.
 
 For Axial-based builds and similar trail rigs, a solid batch of [crawler and upgrade parts](/collections/axial-upgrades) can take care of a lot of those first weak points in one shot.
 
@@ -71,10 +71,10 @@ A good set of tires, better steering where needed, and a little smart weight dow
 ## CTA
 Ready to make your crawler more capable without wasting money on random parts?
 
-👉 Shop crawler upgrades and trail-ready parts  
+ðŸ‘‰ Shop crawler upgrades and trail-ready parts  
 /collections/axial-upgrades
 
-👉 Use the parts finder to see what fits your exact rig  
+ðŸ‘‰ Use the parts finder to see what fits your exact rig  
 /vehicles
 
 ---
