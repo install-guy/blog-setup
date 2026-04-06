@@ -1,130 +1,83 @@
 # New Axial RC Releases + The First Upgrades You Should Actually Do
 
 ## Intro
-New Axial drop? Yeah… we’re paying attention.
+New Axial drop? Yeah, we are paying attention.
 
-Whether it’s a fresh SCX platform or a new mini crawler, the first question isn’t just *“should I buy it?”*
+Whether it is a fresh SCX platform or a new mini crawler, the first question is not just should I buy it.
 
-It’s:
-**“What’s going to break first—and what should I upgrade before it does?”**
-
-Because that’s where the real fun starts.
+It is what is going to break first, and what should I upgrade before it does?
 
 ---
 
 ## The Core Idea (In Plain English)
 Axial rigs are solid out of the box.
 
-But they’re also built to be upgraded.
+But they are also built to be upgraded.
 
 That means:
-- plastic parts where it makes sense
-- room to improve strength, weight, and performance
-- a platform you can tune to your driving style
+- Plastic parts where it makes sense
+- Room to improve strength, weight, and performance
+- A platform you can tune to your driving style
 
-The goal isn’t to replace everything.
+The goal is not to replace everything.
 
-It’s to upgrade **the right parts at the right time**.
+It is to upgrade the right parts at the right time.
 
 ---
 
 ## When This Matters (Use Cases)
+### Scenario 1
+- You just picked up a new Axial and want to run it stock without your first failure killing the fun
+- Smart first upgrades save you headaches later
 
-### Scenario 1: Just picked up a new Axial (SCX30, SCX24, SCX10 III)
-You want to run it stock—but also don’t want your first failure mid-run.
+### Scenario 2
+- You are already breaking parts on harder lines
+- Now you are not guessing anymore and can upgrade what actually failed
 
-👉 Smart move: upgrade known weak points early
-
----
-
-### Scenario 2: You’re already breaking parts
-Now you’re not guessing anymore.
-
-👉 You upgrade what failed—and make it stronger
-
----
-
-### Scenario 3: You want better performance (not just durability)
-More control, better crawling, improved stability
-
-👉 This is where weight, suspension, and geometry upgrades matter
+### Scenario 3
+- You want better crawling performance, not just more durability
+- This is where weight, suspension, and steering changes start to matter
 
 ---
 
 ## What to Look For / Key Considerations
-
-Start here—this applies to almost every Axial platform:
-
-- **Links (plastic → aluminum)**  
-  Reduces flex and improves consistency under load
-
-- **Shocks (stock → oil-filled or aluminum)**  
-  Smoother travel, better control on rocks and uneven terrain
-
-- **Wheels + Brass Weight**  
-  Lower center of gravity = better crawling performance
-
-- **Axle components (gears, housings, shafts)**  
-  Especially important once you add power or run harder lines
-
-- **Steering upgrades**  
-  Stronger servo horns, linkages, and knuckles = tighter control
-
-- **Motor / ESC (later upgrade)**  
-  Only after you’ve sorted durability first
-
-👉 Browse upgrade parts by category  
-/collections/axial-upgrades
+- Start with links, shocks, and steering before chasing power
+- Pay attention to weight placement and overall balance
+- Upgrade axle and driveline parts once the truck starts seeing harder use
+- Avoid random bolt-ons that add weight without helping performance
+- Let the truck show you its weak points instead of replacing everything at once
 
 ---
 
 ## Common Mistakes
-
-- **Upgrading everything at once**  
-  You don’t know what actually needs it yet
-
-- **Ignoring weight distribution**  
-  Random upgrades can make a rig worse, not better
-
-- **Jumping to brushless too early**  
-  More power = more broken parts if you’re not ready
-
-- **Cheap connectors or mismatched parts**  
-  Slop in the system kills performance fast
-
-- **Skipping maintenance while upgrading**  
-  New parts don’t fix bad habits
+- Upgrading everything at once
+- Ignoring weight distribution
+- Jumping to brushless too early
+- Using cheap connectors or mismatched parts
+- Skipping maintenance while upgrading
 
 ---
 
 ## Real Talk
-Most Axial platforms are designed to be upgraded over time—not all at once.
+Most Axial platforms are designed to be upgraded over time, not all at once.
 
-Start with:
-1. durability
-2. control
-3. then performance
+Start with durability, then control, then performance.
 
-That’s how you build a rig that actually feels better every time you run it.
-
-And yeah… half the fun is breaking it and dialing it back in.
+That is how you build a rig that actually feels better every time you run it.
 
 ---
 
-## CTA
-Ready to upgrade your Axial the right way?
-
-👉 Shop Axial parts, upgrades, and accessories  
-/collections/axial-upgrades
-
-👉 Find exact-fit parts for your model  
-/vehicles
+## Keep Your Rig Dialed
+- Shop [Axial parts, upgrades, and accessories](/collections/axial-upgrades)
+- Use the [parts finder](/vehicles) to find exact-fit parts for your model
+- Focus your first changes with [RC Crawler Upgrades: The First Mods That Actually Matter](/gearheads-gazette/rc-crawler-upgrades-first-mods)
+- Match traction to terrain in [Choosing the Right RC Tires](/gearheads-gazette/choosing-the-right-rc-tires)
 
 ---
 
 ## Closing
 New rig day is great.
 
-But build day? That’s where it gets addictive.
+But build day is where it gets addictive.
 
-Upgrade smart—and your Axial just keeps getting better.
+Upgrade smart, and your Axial just keeps getting better.

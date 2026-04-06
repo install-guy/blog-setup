@@ -18,9 +18,7 @@ That usually means focusing on the basics:
 - Steering that works under load
 - Parts that survive repeated trail abuse
 
-If your crawler does not have traction, the rest of the upgrade list gets a lot less exciting. That is why a good tire setup is usually the first real win, and our guide to [choosing the right RC tires](/gearheads-gazette/choosing-the-right-rc-tires) is worth a look before you start spending money in the wrong place.
-
-For Axial-based builds and similar trail rigs, a solid batch of [crawler and upgrade parts](/collections/axial-upgrades) can take care of a lot of those first weak points in one shot.
+If your crawler does not have traction, the rest of the upgrade list gets a lot less exciting.
 
 ---
 
@@ -64,18 +62,15 @@ Crawler upgrades get weird fast because social media makes every build look like
 
 It does not.
 
-A good set of tires, better steering where needed, and a little smart weight down low will usually do more than a pile of random bolt-ons. Build for how and where you drive, not for a photo dump. The trucks that feel best on the trail are usually the ones upgraded with a plan.
+A good set of tires, better steering where needed, and a little smart weight down low will usually do more than a pile of random bolt-ons. Build for how and where you drive, not for a photo dump.
 
 ---
 
-## CTA
-Ready to make your crawler more capable without wasting money on random parts?
-
-ðŸ‘‰ Shop crawler upgrades and trail-ready parts  
-/collections/axial-upgrades
-
-ðŸ‘‰ Use the parts finder to see what fits your exact rig  
-/vehicles
+## Keep Your Rig Dialed
+- Shop [crawler upgrades and trail-ready parts](/collections/axial-upgrades)
+- Use the [parts finder](/vehicles) to see what fits your exact rig
+- Start with traction in [Choosing the Right RC Tires](/gearheads-gazette/choosing-the-right-rc-tires)
+- Compare priorities in [New Axial RC Releases + The First Upgrades You Should Actually Do](/gearheads-gazette/new-axial-rc-upgrades-guide)
 
 ---
 

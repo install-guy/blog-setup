@@ -18,9 +18,7 @@ But this is also where a lot of people get into trouble, usually because nobody 
 More cells means more voltage.
 More voltage means more performance, but also more stress on the rest of the system.
 
-That is why battery choice is never just about speed. It affects runtime, motor temperature, gearing tolerance, and how hard the whole car has to work. If you are stepping up in voltage, our [motor temperature guide](/gearheads-gazette/rc-motor-temperature-guide) is worth reading right alongside this.
-
-And if you are still sorting out safe charging routines, our guide on [choosing the right RC battery charger](/gearheads-gazette/how-to-choose-the-right-rc-battery-charger) makes that part a lot less confusing.
+That is why battery choice is never just about speed. It affects runtime, motor temperature, gearing tolerance, and how hard the whole car has to work.
 
 ---
 
@@ -46,7 +44,7 @@ And if you are still sorting out safe charging routines, our guide on [choosing 
 - Watch for swelling, damaged wires, or packs that refuse to balance correctly
 - Keep connectors clean and secure
 - Check temperatures after changing voltage, gearing, or tire size
-- Treat battery care as part of the same routine as your [maintenance habits](/gearheads-gazette/rc-car-maintenance)
+- Treat battery care as part of the same routine as your maintenance habits
 
 ---
 
@@ -54,7 +52,7 @@ And if you are still sorting out safe charging routines, our guide on [choosing 
 - Jumping to higher cell counts without checking temps
 - Using the wrong charger setting for the battery type
 - Leaving packs fully charged for long periods
-- Running packs too low because the car "still had a little left"
+- Running packs too low because the car still had a little left
 - Treating puffed or damaged packs like they are still worth the risk
 
 ---
@@ -68,12 +66,12 @@ Do that, and LiPos are reliable, powerful, and absolutely worth it.
 
 ---
 
-## CTA
-Ready to build a better battery setup?
-
-ðŸ‘‰ Shop [batteries, chargers, and power accessories](/collections/rc-power)
-
-ðŸ‘‰ Use the [parts finder](/vehicles) to find what fits your exact vehicle
+## Keep Your Rig Dialed
+- Shop [batteries, chargers, and power accessories](/collections/rc-power)
+- Use the [parts finder](/vehicles) to find what fits your exact vehicle
+- Learn charger basics in [How to Choose the Right RC Battery Charger](/gearheads-gazette/how-to-choose-the-right-rc-battery-charger)
+- Watch heat with the [RC Motor Temperature Guide](/gearheads-gazette/rc-motor-temperature-guide)
+- Stay ahead of wear in [RC Car Maintenance](/gearheads-gazette/rc-car-maintenance)
 
 ---
 

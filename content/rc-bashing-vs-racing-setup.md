@@ -5,7 +5,7 @@ A setup that feels awesome in a backyard bash session can feel terrible on a tra
 
 The opposite is true too. A race setup that feels sharp and quick on a prepared surface can be a headache when you are just trying to launch the car off a dirt pile and have fun.
 
-That is why "best setup" is always the wrong question. The better question is what kind of driving you are really building for.
+That is why best setup is always the wrong question. The better question is what kind of driving you are really building for.
 
 ---
 
@@ -23,9 +23,9 @@ That changes a lot of decisions:
 - Ride height
 - How much risk you can take for performance
 
-Tires are a great example. A bash setup often needs versatility across mixed surfaces, while a race setup usually needs a much more specific match to the track. If you want to sort that part out first, our guide to [choosing the right RC tires](/gearheads-gazette/choosing-the-right-rc-tires) is worth a look.
+Tires are a great example. A bash setup often needs versatility across mixed surfaces, while a race setup usually needs a much more specific match to the track.
 
-Suspension is another big separator between the two, especially once you start chasing consistency instead of just survival, which is why our [suspension basics guide](/gearheads-gazette/rc-suspension-basics) fits right into this conversation. And if the car feels off no matter which direction you go, it is usually worth checking the basics in your [maintenance routine](/gearheads-gazette/rc-car-maintenance) before blaming the setup idea itself.
+Suspension is another big separator between the two, especially once you start chasing consistency instead of just survival. And if the car feels off no matter which direction you go, it is usually worth checking the basics before blaming the setup idea itself.
 
 ---
 
@@ -73,12 +73,12 @@ A bash setup should survive bad decisions and still be fun. A race setup should 
 
 ---
 
-## CTA
-Want to tune your setup around the way you really drive?
-
-ðŸ‘‰ Shop [performance, suspension, and drivetrain upgrades](/collections/rc-performance-parts)
-
-ðŸ‘‰ Use the [parts finder](/vehicles) to match parts to your exact vehicle
+## Keep Your Rig Dialed
+- Shop [performance, suspension, and drivetrain upgrades](/collections/rc-performance-parts)
+- Use the [parts finder](/vehicles) to match parts to your exact vehicle
+- Pick the right rubber with [Choosing the Right RC Tires](/gearheads-gazette/choosing-the-right-rc-tires)
+- Tighten up handling in [RC Suspension Basics](/gearheads-gazette/rc-suspension-basics)
+- Stay ahead of wear with [RC Car Maintenance](/gearheads-gazette/rc-car-maintenance)
 
 ---
 

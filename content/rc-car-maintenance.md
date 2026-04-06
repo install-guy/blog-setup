@@ -24,16 +24,15 @@ A simple routine goes a long way:
 - Inspect high-stress parts
 - Fix small problems early
 
-You don't need a full teardown every time. You just need to stay ahead of the obvious trouble. And if you're already sorting out the rest of your setup, it helps to understand how supporting parts affect wear too, especially your [tires](/gearheads-gazette/choosing-the-right-rc-tires), [battery setup](/gearheads-gazette/lipo-batteries-101), and the heat side of things in our [motor temperature guide](/gearheads-gazette/rc-motor-temperature-guide).
+You do not need a full teardown every time. You just need to stay ahead of the obvious trouble.
 
 ---
 
 ## When This Matters (Use Cases)
-
 ### After a dusty parking lot bash session
 The car still runs, but everything feels gritty. Steering slows down. The drivetrain sounds louder than usual.
 
-That's dirt getting into places it shouldn't be.
+That is dirt getting into places it should not be.
 
 ### After a muddy or wet run
 Mud looks cool, but moisture and grime are brutal on bearings, hinges, screws, and electronics if you let it sit overnight.
@@ -54,7 +53,7 @@ Gears, bearings, tires, and driveline parts all take a bigger hit when you step 
 - Look for cracks or slop in arms, hubs, and rod ends
 - Keep motor and ESC cooling areas clean
 - Use light oil on bearings only when needed
-- Use grease only where it's intended
+- Use grease only where it is intended
 - Keep lubricants away from tires and electronics
 
 ---
@@ -62,34 +61,34 @@ Gears, bearings, tires, and driveline parts all take a bigger hit when you step 
 ## Common Mistakes
 - Blasting the whole car with water and calling it maintenance
 - Over-oiling until dirt sticks everywhere
-- Ignoring weird noises because "it still runs"
+- Ignoring weird noises because it still runs
 - Skipping checks after a hard crash
 - Letting loose hardware turn into bigger failures
 - Waiting for bearings to fail instead of replacing them early
-- Treating cleaning like it's cosmetic when it actually prevents wear
+- Treating cleaning like it is cosmetic when it actually prevents wear
 
 ---
 
 ## Real Talk
 Most people either do too little maintenance or way too much.
 
-You don't need a full rebuild after every pack. But you also can't run hard every weekend and expect everything to stay tight on its own.
+You do not need a full rebuild after every pack. But you also cannot run hard every weekend and expect everything to stay tight on its own.
 
 The sweet spot is consistency.
 
 A five-to-ten-minute check after each run beats a full teardown once your car already sounds like a coffee grinder.
 
-The goal isn't perfection.
-The goal is a rig that's ready when you are.
+The goal is not perfection.
+The goal is a rig that is ready when you are.
 
 ---
 
-## Keep Your Rig Running
-If you're replacing worn parts or freshening up a well-used rig, start with the basics:
-
-ðŸ‘‰ Browse [maintenance and replacement parts](/collections/rc-maintenance-parts)
-
-ðŸ‘‰ Use the [fitment tool](/vehicles) to find exact-fit parts for your vehicle
+## Keep Your Rig Dialed
+- Shop [maintenance and replacement parts](/collections/rc-maintenance-parts)
+- Use the [fitment tool](/vehicles) to find exact-fit parts for your vehicle
+- Match grip with [Choosing the Right RC Tires](/gearheads-gazette/choosing-the-right-rc-tires)
+- Watch heat with the [RC Motor Temperature Guide](/gearheads-gazette/rc-motor-temperature-guide)
+- Keep power healthy with [LiPo Batteries 101](/gearheads-gazette/lipo-batteries-101)
 
 ---
 
@@ -98,4 +97,4 @@ Clean it a little.
 Check it often.
 Fix the small stuff early.
 
-That's how you keep an RC car running like it should.
+That is how you keep an RC car running like it should.

@@ -22,9 +22,7 @@ Why it matters:
 - It affects motor heat
 - It affects how long your gears last
 
-That is why gear mesh and gearing decisions are tied together. If you are changing pinion size, our guide on [choosing the right pinion gear](/gearheads-gazette/how-to-choose-the-right-pinion-gear) is worth reading before you start chasing speed the hard way.
-
-Bad mesh can also show up as extra heat, so it connects directly to what we cover in the [motor temperature guide](/gearheads-gazette/rc-motor-temperature-guide).
+That is why gear mesh and gearing decisions are tied together.
 
 ---
 
@@ -39,7 +37,7 @@ Bad mesh can also show up as extra heat, so it connects directly to what we cove
 
 ### Scenario 3
 - You are dealing with unexplained motor heat or chewed-up spur gears
-- Gear mesh is one of the first things worth checking before blaming bigger parts or skipping past the basics in your [maintenance routine](/gearheads-gazette/rc-car-maintenance)
+- Gear mesh is one of the first things worth checking before blaming bigger parts or skipping past the basics in your maintenance routine
 
 ---
 
@@ -56,7 +54,7 @@ Bad mesh can also show up as extra heat, so it connects directly to what we cove
 ---
 
 ## Common Mistakes
-- Setting the mesh too tight because it "feels safer"
+- Setting the mesh too tight because it feels safer
 - Leaving it too loose because the drivetrain spins freely on the bench
 - Only checking one spot on the spur gear
 - Swapping motors or pinions and forgetting to reset mesh
@@ -73,12 +71,12 @@ A clean, properly meshed drivetrain is quieter, cooler, and easier on parts. It 
 
 ---
 
-## CTA
-Need to freshen up worn gears or check fitment before your next swap?
-
-ðŸ‘‰ Shop [gearing, cooling, and drivetrain upgrades](/collections/rc-performance-parts)
-
-ðŸ‘‰ Use the [parts finder](/vehicles) to confirm what fits your vehicle
+## Keep Your Rig Dialed
+- Shop [gearing, cooling, and drivetrain upgrades](/collections/rc-performance-parts)
+- Use the [parts finder](/vehicles) to confirm what fits your vehicle
+- Read [How to Choose the Right Pinion Gear](/gearheads-gazette/how-to-choose-the-right-pinion-gear)
+- Watch temps with the [RC Motor Temperature Guide](/gearheads-gazette/rc-motor-temperature-guide)
+- Stay ahead of wear in [RC Car Maintenance](/gearheads-gazette/rc-car-maintenance)
 
 ---
 

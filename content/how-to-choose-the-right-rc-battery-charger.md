@@ -21,9 +21,7 @@ A good charger choice usually comes down to a few basics:
 - Balance charging
 - Enough output for the packs you actually run
 
-If you are still getting comfortable with pack voltage, charge rates, and storage habits, our [LiPo batteries guide](/gearheads-gazette/lipo-batteries-101) is the best place to start. And if your whole setup has been running hot or feeling rough, our [RC car maintenance guide](/gearheads-gazette/rc-car-maintenance) is worth a look too, because power problems are not always just charger problems.
-
-Having the right [chargers and RC power gear](/collections/rc-chargers) on hand makes the routine easier, especially when you are trying to keep multiple packs ready without rushing things.
+If you are still getting comfortable with pack voltage, charge rates, and storage habits, start with the battery basics first. And if your whole setup has been running hot or feeling rough, basic maintenance is worth a look too, because power problems are not always just charger problems.
 
 ---
 
@@ -69,12 +67,11 @@ For most people, the best charger is the one that is reliable, easy to use, and 
 
 ---
 
-## CTA
-Need a charger setup that actually matches your batteries and your routine?
-
-ðŸ‘‰ Shop [chargers and RC power gear](/collections/rc-chargers)
-
-ðŸ‘‰ Use the [parts finder](/vehicles) to make sure your battery setup fits your vehicle
+## Keep Your Rig Dialed
+- Shop [chargers and RC power gear](/collections/rc-chargers)
+- Use the [parts finder](/vehicles) to make sure your battery setup fits your vehicle
+- Start with [LiPo Batteries 101](/gearheads-gazette/lipo-batteries-101)
+- Brush up on [RC Car Maintenance](/gearheads-gazette/rc-car-maintenance)
 
 ---
 
