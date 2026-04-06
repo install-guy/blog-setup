@@ -25,7 +25,7 @@ That changes a lot of decisions:
 
 Tires are a great example. A bash setup often needs versatility across mixed surfaces, while a race setup usually needs a much more specific match to the track. If you want to sort that part out first, our guide to [choosing the right RC tires](/blogs/news/choosing-the-right-rc-tires) is worth a look.
 
-And if you are constantly breaking parts while trying to turn a basher into something sharper, it helps to start with reliable [performance and durability upgrades](/collections/rc-performance-parts) instead of chasing speed alone.
+Suspension is another big separator between the two, especially once you start chasing consistency instead of just survival, which is why our [suspension basics guide](/blogs/news/rc-suspension-basics) fits right into this conversation. And if the car feels off no matter which direction you go, it is usually worth checking the basics in your [maintenance routine](/blogs/news/rc-car-maintenance) before blaming the setup idea itself.
 
 ---
 
@@ -76,11 +76,9 @@ A bash setup should survive bad decisions and still be fun. A race setup should 
 ## CTA
 Want to tune your setup around the way you really drive?
 
-👉 Shop performance, suspension, and drivetrain upgrades  
-/collections/rc-performance-parts
+👉 Shop [performance, suspension, and drivetrain upgrades](/collections/rc-performance-parts)
 
-👉 Use the parts finder to match parts to your exact vehicle  
-/vehicles
+👉 Use the [parts finder](/vehicles) to match parts to your exact vehicle
 
 ---
 

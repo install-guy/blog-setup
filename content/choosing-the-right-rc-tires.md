@@ -1,151 +1,74 @@
 # Choosing the Right RC Tires: Match Grip to Terrain
 
 ## Intro
-If your RC feels sketchy in corners, spins on takeoff, or just won’t go where you point it…
+If your RC feels sketchy in corners, spins on takeoff, or just will not go where you point it, it is probably the tires.
 
-…it’s probably the tires.
-
-This is one of the biggest performance upgrades you can make—and it has nothing to do with speed.
+This is one of the biggest performance upgrades you can make, and it has nothing to do with speed.
 
 Match the tire to the surface, and everything gets easier to drive.
 
 ---
 
-## Terrain Matters (More Than Anything Else)
+## The Core Idea (In Plain English)
+There is no best tire. Only the right tire for where you run.
 
-There’s no “best tire.” Only the right tire for where you run.
+Street tires, all-terrain tread, loose-surface tires, and crawler compounds all behave differently because they are trying to solve different problems. That means the best tire choice depends on how much grip, side bite, flex, and durability your setup actually needs.
 
-### Pavement and parking lots
-Running on asphalt or concrete?
+That is also why tire choice changes depending on whether you are building more for casual abuse or track precision. Our guide to [bashing vs racing setup](/blogs/news/rc-bashing-vs-racing-setup) helps frame that decision if you are stuck between versatility and outright performance.
 
-You want:
-- Low-profile street tread  
-- Firmer sidewalls  
-- Compounds that won’t overheat instantly  
-
-Street tires track straighter, corner better, and won’t balloon like off-road tires at speed.
+If the car still feels weird after a tire change, it is worth checking the basics in your [maintenance routine](/blogs/news/rc-car-maintenance) too. And when you are ready to shop, the right [RC tires](/collections/rc-tires) make all the difference.
 
 ---
 
-### Hard-packed dirt and mixed backyard terrain
-This is where most people run—and where all-terrain tires shine.
+## When This Matters (Use Cases)
+### Scenario 1
+- You run on asphalt or concrete and your off-road tires feel vague or unstable
+- Street-focused tires will usually track straighter and feel more planted
 
-Look for:
-- Medium pin or block tread  
-- Balanced compound  
-- Good side bite  
+### Scenario 2
+- You drive on dirt, grass, and mixed backyard surfaces
+- An all-terrain tire usually gives you the best balance instead of forcing the car into one narrow condition
 
-If your surface changes mid-run (dirt, grass, loose spots), this is your safest bet.
-
----
-
-### Loose surfaces (sand, dusty lots, gravel)
-You need something that can dig.
-
-Look for:
-- Larger lugs  
-- Open tread spacing  
-- Softer compound for bite  
-
-Run the wrong tire here and you’ll just spin and slide all day.
+### Scenario 3
+- You are crawling on rocks or rough technical terrain
+- Soft compounds and the right tire shape matter just as much as the rest of the suspension setup
 
 ---
 
-### Crawling and rocks
-Completely different game.
-
-You want:
-- Soft, sticky compound  
-- Flexible tire carcass  
-- Proper foam setup  
-
-In crawling, tires aren’t just grip—they’re suspension.
+## What to Look For / Key Considerations
+- Match tread style to the surface instead of buying based on looks
+- Think about compound because softer is not always better for bashing
+- Pay attention to inserts and foams because they change how the tire supports the car
+- Check overall tire size since it affects gearing, clearance, and steering feel
+- Watch wear patterns because they tell you a lot about how the setup is working
+- Make sure the tire choice fits the kind of driving you actually do most
 
 ---
 
-### Track use (dirt, clay, carpet)
-Track tires are dialed for specific conditions.
-
-- Pins for dirt  
-- Slicks or mini pins for clay/carpet  
-- Compound matched to temperature  
-
-Best shortcut? Look at what fast guys are running at your track.
-
-👉 Shop tires by category:  
-/collections/rc-tires
-
----
-
-## Beyond Tread (Where People Mess Up)
-
-Tread gets all the attention—but this is where setups are won or lost.
-
----
-
-### Compound (soft vs firm)
-- **Soft** = more grip, faster wear  
-- **Firm** = longer life, less peak grip  
-
-If you’re just bashing, ultra-soft isn’t always the move. Medium compound usually feels better and lasts longer.
-
----
-
-### Inserts / foams
-Foams control how the tire behaves under load.
-
-- Too soft → vague, rolls over in corners  
-- Too firm → loses grip on rough terrain  
-
-Getting this right makes a bigger difference than most people expect.
-
----
-
-### Size and fitment
-Wrong size = weird handling.
-
-It can mess with:
-- gearing  
-- clearance  
-- steering feel  
-
-👉 Use the parts finder before you buy:  
-/vehicles
-
----
-
-## Common Tire Mistakes
-
-- Buying based on looks  
-- Running one tire for every surface  
-- Ignoring wear (it tells you a lot)  
-- Bad glue jobs → tires flying off at speed  
-- Going bigger without adjusting gearing  
-
-A cheaper tire that matches your terrain will outperform the “wrong” expensive one every time.
-
-👉 Browse wheels and tire accessories:  
-/collections/rc-wheels-accessories
+## Common Mistakes
+- Running one tire for every surface and expecting great results everywhere
+- Buying the coolest-looking tread instead of the one that matches the terrain
+- Ignoring tire size changes and what they do to gearing
+- Assuming more grip is always better even when it makes the car harder to control
+- Forgetting that worn tires can make a good setup feel bad
 
 ---
 
 ## Real Talk
-If your rig feels hard to drive, it’s usually not you.
+If your rig feels hard to drive, it is usually not you.
 
-It’s the tires.
+It is often the tires.
 
-Fix that, and suddenly everything feels smoother, faster, and more predictable.
+Fix that, and suddenly everything feels smoother, faster, and more predictable without changing a single expensive electronic part.
 
 ---
 
 ## CTA
 Ready to get real grip where you actually run?
 
-👉 Shop RC tires by terrain and vehicle type  
-/collections/rc-tires  
+👉 Shop [RC tires by terrain and vehicle type](/collections/rc-tires)
 
-👉 Find exact-fit tire and wheel options  
-/vehicles
+👉 Use the [parts finder](/vehicles) to find exact-fit tire and wheel options
 
 ---
 
@@ -154,4 +77,4 @@ Power gets attention.
 
 Tires win runs.
 
-Match them to your surface, and your whole setup wakes up.
+Match them to your surface, and the whole setup wakes up.

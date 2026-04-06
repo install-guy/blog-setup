@@ -25,7 +25,7 @@ Heat usually shows up from a few common causes:
 
 That is why temperature checks and basic maintenance go together. If your drivetrain is dirty or binding, the extra drag can raise heat fast. Our [RC car maintenance guide](/blogs/news/rc-car-maintenance) is a good place to start if the car feels rough before you touch gearing.
 
-If you are already chasing heat, it also helps to keep the right [cooling and performance parts](/collections/rc-performance-parts) around so you can solve the cause instead of just hoping it goes away.
+Battery setup matters too. More voltage and extra load can make a heat problem show up a whole lot faster, which is why our [LiPo batteries guide](/blogs/news/lipo-batteries-101) is worth a read before you keep stepping the setup up. If the drivetrain also sounds rough or noisy, our [gear mesh guide](/blogs/news/rc-gear-mesh-explained) belongs on your shortlist too.
 
 ---
 
@@ -77,11 +77,9 @@ A slightly slower car that stays cool will usually be more fun, more reliable, a
 ## CTA
 Trying to keep your setup cooler and more reliable?
 
-👉 Shop cooling, gearing, and drivetrain upgrades  
-/collections/rc-performance-parts
+👉 Shop [cooling, gearing, and drivetrain upgrades](/collections/rc-performance-parts)
 
-👉 Use the parts finder to check what fits your exact vehicle  
-/vehicles
+👉 Use the [parts finder](/vehicles) to check what fits your exact vehicle
 
 ---
 

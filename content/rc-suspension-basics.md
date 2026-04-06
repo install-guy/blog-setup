@@ -22,7 +22,7 @@ When suspension is working right, the car feels calmer. It tracks straighter, co
 
 That is also why suspension and tire choice work together. If your setup still feels sketchy after basic suspension tuning, your [tires](/blogs/news/choosing-the-right-rc-tires) may be part of the problem too.
 
-If you are replacing worn shocks, bent turnbuckles, or sloppy rod ends, having the right [suspension and handling parts](/collections/rc-performance-parts) on hand makes the whole job easier.
+And if you are trying to decide how soft, sharp, or forgiving the whole car should feel, our guide to [bashing vs racing setup](/blogs/news/rc-bashing-vs-racing-setup) helps put suspension choices into context. When it is time to swap worn parts, the right [suspension and handling parts](/collections/rc-performance-parts) make the whole job a lot easier.
 
 ---
 
@@ -74,11 +74,9 @@ You do not need to turn every bashing rig into a race program. You just want a c
 ## CTA
 Want to tighten up the way your rig handles?
 
-👉 Shop suspension, shock, and handling upgrades  
-/collections/rc-performance-parts
+👉 Shop [suspension, shock, and handling upgrades](/collections/rc-performance-parts)
 
-👉 Use the parts finder to match components to your exact vehicle  
-/vehicles
+👉 Use the [parts finder](/vehicles) to match components to your exact vehicle
 
 ---
 
