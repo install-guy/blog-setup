@@ -62,8 +62,9 @@
 <style>
   .gearheads-gazette {
     padding: 56px 20px;
-    background: #f5f1e8;
+    background: #f4f6fb;
     color: #1f1f1a;
+    border-top: 2px solid #ee7625;
   }
 
   .gazette-shell {
@@ -83,13 +84,14 @@
     font-weight: 700;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #8a4b2a;
+    color: #ee7625;
   }
 
   .gazette-header h2 {
     margin: 0 0 10px;
     font-size: clamp(1.9rem, 3.8vw, 2.9rem);
     line-height: 1.08;
+    font-weight: 800;
   }
 
   .gazette-subheadline {
@@ -110,15 +112,22 @@
     flex-direction: column;
     overflow: hidden;
     background: #fff;
-    border: 1px solid #e7dece;
+    border: 1px solid #e2e6ef;
     border-radius: 18px;
-    box-shadow: 0 10px 30px rgba(31, 31, 26, 0.06);
+    box-shadow: 0 8px 24px rgba(24, 39, 75, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  }
+
+  .gazette-card:hover {
+    transform: translateY(-4px);
+    border-color: #d4dbe8;
+    box-shadow: 0 16px 34px rgba(24, 39, 75, 0.12);
   }
 
   .gazette-card-image {
     display: block;
     aspect-ratio: 16 / 10;
-    background: #ddd6c9;
+    background: #e8edf6;
   }
 
   .gazette-card-image img {
@@ -148,7 +157,7 @@
   .gazette-card-link {
     margin-top: auto;
     padding: 0 20px 20px;
-    color: #8a4b2a;
+    color: #ee7625;
     text-decoration: none;
     font-weight: 700;
   }
@@ -161,7 +170,7 @@
     margin-top: 28px;
     padding: 22px 24px;
     background: #fff;
-    border: 1px solid #e7dece;
+    border: 1px solid #e2e6ef;
     border-radius: 18px;
     text-align: center;
   }
@@ -177,14 +186,14 @@
     display: inline-block;
     padding: 13px 22px;
     border-radius: 999px;
-    background: #1f1f1a;
+    background: #283a91;
     color: #fff;
     text-decoration: none;
     font-weight: 700;
   }
 
   .gazette-bridge-button:hover {
-    background: #33332b;
+    background: #1f2f78;
   }
 
   @media (max-width: 640px) {
