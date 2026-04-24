@@ -6,6 +6,7 @@ Content repo for Hobby Etc's Gearhead's Gazette articles, collection-page SEO bl
 - `content/` = Gearhead's Gazette article markdown
 - `collections/` = SEO content blocks for collection/category pages
 - `components/homepage/` = homepage modules, including Gearhead's Gazette
+- `data/` = reference/example data structures for module wiring
 - `docs/` = strategy, workflow, and system rules
 - `templates/` = reusable future templates if the repo grows into that structure
 
@@ -25,6 +26,8 @@ If `data/`, `scripts/`, `src/`, or `output/` are added later, keep their existin
 
 ## Content Rules
 - Blog posts should follow `content/blog-post-template.md`
+- Gazette posts in `content/` should include frontmatter for:
+  `title`, `image`, `image_alt`, and `excerpt`
 - Articles should use natural internal links, not forced link stuffing
 - CTAs should use the `Keep Your Rig Dialed` pattern
 - Keep links helpful and avoid over-linking
@@ -34,6 +37,8 @@ If `data/`, `scripts/`, `src/`, or `output/` are added later, keep their existin
 - Add or update Gazette articles in `content/`
 - Add or update collection SEO blocks in `collections/`
 - Add or update homepage modules in `components/homepage/`
+- Use `components/homepage/gearheads-gazette-section.html` for the Gazette homepage module
+- Use `data/gazette-posts-example.json` as the reference shape for module-fed post data
 - Check article links, collection links, and `/vehicles` fitment references before wrapping up
 
 ## Who This Is For

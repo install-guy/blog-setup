@@ -12,6 +12,15 @@ Use these standards for Gazette post images so the same asset works cleanly acro
 - Article file: `content/lipo-batteries-101.md`
 - Image file: `assets/gazette/posts/lipo-batteries-101.jpg`
 
+## Required Gazette Frontmatter
+Each Gazette article should include:
+- `title`
+- `image`
+- `image_alt`
+- `excerpt`
+
+The `image` field should point to the matching asset in `assets/gazette/posts/`.
+
 ## Usage Goal
 Each Gazette image should be usable for:
 - Article hero images
