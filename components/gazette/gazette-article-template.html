@@ -1,0 +1,271 @@
+<!--
+  Gearhead's Gazette Article Template
+
+  Purpose:
+  Render a single Gazette article from existing /content/*.md files without
+  changing the markdown article structure.
+
+  Data mapping for Loren:
+  - article.title comes from frontmatter.title
+  - article.image comes from frontmatter.image
+  - article.image_alt comes from frontmatter.image_alt
+  - article.excerpt comes from frontmatter.excerpt
+  - article.date is optional frontmatter date/published_at metadata
+  - article.content comes from the markdown body converted to HTML
+  - article.slug / article.url should resolve to /gearheads-gazette/[slug]
+
+  Important:
+  - article.content should be rendered as HTML converted from markdown
+  - article.content should not be escaped as plain text
+  - "Keep Your Rig Dialed" should render naturally from the markdown body
+  - Related posts can be added later at the bottom of the template
+-->
+
+<article class="gazette-article-page">
+  <!-- Optional site/header placeholder -->
+  <header class="gazette-site-header">
+    <!-- Replace with shared site header include/render -->
+    <div class="gazette-site-header-inner">
+      <a class="gazette-site-logo" href="/">
+        <span>Hobby Etc</span>
+      </a>
+    </div>
+  </header>
+
+  <main class="gazette-article-main">
+    <div class="gazette-article-shell">
+      <header class="gazette-article-header">
+        <!-- Hero image: article.image / article.image_alt -->
+        <figure class="gazette-article-hero-wrap">
+          <img
+            class="gazette-article-hero"
+            src="{{ article.image }}"
+            alt="{{ article.image_alt }}"
+          />
+        </figure>
+
+        <!-- Article title: article.title -->
+        <h1 class="gazette-article-title">{{ article.title }}</h1>
+
+        <div class="gazette-article-accent" aria-hidden="true"></div>
+
+        <!-- Optional date/meta line: article.date -->
+        <p class="gazette-article-meta">
+          {{ article.date | default: "Gearhead's Gazette" }}
+        </p>
+
+        <!-- Optional summary: article.excerpt -->
+        <p class="gazette-article-excerpt">{{ article.excerpt }}</p>
+      </header>
+
+      <!--
+        Markdown body render slot
+        article.content must be HTML converted from markdown and rendered directly.
+      -->
+      <section class="gazette-article-body">
+        {{ article.content }}
+      </section>
+
+      <section class="gazette-related-posts">
+        <!--
+          Optional related posts placeholder.
+          Related posts can be rendered here later if needed.
+        -->
+      </section>
+    </div>
+  </main>
+</article>
+
+<style>
+  .gazette-article-page {
+    min-height: 100vh;
+    background: #ffffff;
+    color: #111111;
+    font-family: Roboto, Arial, sans-serif;
+  }
+
+  .gazette-site-header {
+    border-bottom: 1px solid #e7ebf3;
+    background: #ffffff;
+  }
+
+  .gazette-site-header-inner {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 14px 16px;
+    box-sizing: border-box;
+  }
+
+  .gazette-site-logo {
+    display: inline-flex;
+    align-items: center;
+    color: #283a90;
+    text-decoration: none;
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+
+  .gazette-article-main {
+    padding: 24px 0 56px;
+  }
+
+  .gazette-article-shell {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 16px;
+    box-sizing: border-box;
+  }
+
+  .gazette-article-header {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .gazette-article-hero-wrap {
+    margin: 0 0 20px;
+  }
+
+  .gazette-article-hero {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+  }
+
+  .gazette-article-title {
+    margin: 0 0 12px;
+    color: #1b1b1b;
+    font-size: clamp(1.9rem, 5vw, 2.8rem);
+    line-height: 1.12;
+    font-weight: 700;
+  }
+
+  .gazette-article-accent {
+    width: 88px;
+    height: 8px;
+    margin: 0 auto 14px;
+    border-radius: 999px;
+    background: #ee7625;
+  }
+
+  .gazette-article-meta {
+    margin: 0 0 10px;
+    color: #5f6880;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+  }
+
+  .gazette-article-excerpt {
+    max-width: 620px;
+    margin: 0 auto;
+    color: #4a4f5e;
+    font-size: 0.98rem;
+    line-height: 1.7;
+  }
+
+  .gazette-article-body {
+    max-width: 720px;
+    margin: 0 auto;
+    color: #1b1b1b;
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+
+  .gazette-article-body > :first-child {
+    margin-top: 0;
+  }
+
+  .gazette-article-body > :last-child {
+    margin-bottom: 0;
+  }
+
+  .gazette-article-body h2 {
+    margin: 34px 0 14px;
+    color: #283a90;
+    font-size: 1.5rem;
+    line-height: 1.3;
+    font-weight: 700;
+  }
+
+  .gazette-article-body h3 {
+    margin: 28px 0 12px;
+    color: #283a90;
+    font-size: 1.16rem;
+    line-height: 1.35;
+    font-weight: 700;
+  }
+
+  .gazette-article-body p {
+    margin: 0 0 16px;
+  }
+
+  .gazette-article-body ul,
+  .gazette-article-body ol {
+    margin: 0 0 18px;
+    padding-left: 20px;
+  }
+
+  .gazette-article-body li {
+    margin: 0 0 8px;
+  }
+
+  .gazette-article-body a {
+    color: #283a90;
+    text-decoration: underline;
+    text-decoration-color: rgba(40, 58, 144, 0.35);
+    text-underline-offset: 2px;
+  }
+
+  .gazette-article-body a:hover {
+    text-decoration-color: #283a90;
+  }
+
+  .gazette-article-body strong,
+  .gazette-article-body b {
+    font-weight: 700;
+  }
+
+  .gazette-article-body blockquote {
+    margin: 0 0 20px;
+    padding: 0 0 0 16px;
+    border-left: 4px solid #ee7625;
+    color: #485068;
+  }
+
+  .gazette-article-body hr {
+    border: 0;
+    border-top: 1px solid #e5e9f2;
+    margin: 28px 0;
+  }
+
+  .gazette-related-posts {
+    margin-top: 36px;
+  }
+
+  @media (min-width: 768px) {
+    .gazette-site-header-inner {
+      padding: 16px 24px;
+    }
+
+    .gazette-article-main {
+      padding: 32px 0 72px;
+    }
+
+    .gazette-article-shell {
+      padding: 0 24px;
+    }
+
+    .gazette-article-header {
+      margin-bottom: 36px;
+    }
+
+    .gazette-article-hero-wrap {
+      margin-bottom: 24px;
+    }
+  }
+</style>
