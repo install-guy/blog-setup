@@ -11,16 +11,18 @@ Frontmatter mapping:
 - excerpt -> post.excerpt
 - slug -> /gearheads-gazette/[slug]
 
-Homepage placeholder mapping:
-- {{ post_1_title }}
-- {{ post_1_image }}
-- {{ post_1_image_alt }}
-- {{ post_1_excerpt }}
-- {{ post_1_url }}
-- {{ post_1_cta_text }}
+Example data source:
+- /data/gazette-posts-example.json
+
+Data mapping inside this component:
+- post.title -> title
+- post.image -> image
+- post.image_alt -> alt
+- post.excerpt -> excerpt
+- post.url -> link
 
 Notes:
-- Designed for 2 posts currently (can scale to more later)
+- Render the first 2 posts from the Gazette posts array
 - Layout is responsive (grid to stacked mobile)
 - Keep image aspect ratio consistent (19:11)
 -->
@@ -36,55 +38,40 @@ Notes:
     </div>
 
     <div class="gearheads-gazette-list">
+      <!--
+        Pseudo-loop example:
+        for each post in posts[0:2]:
+          render article row
+
+        Source shape:
+        {
+          "title": "...",
+          "image": "...",
+          "image_alt": "...",
+          "excerpt": "...",
+          "url": "/gearheads-gazette/[slug]"
+        }
+      -->
       <article class="gearheads-gazette-row">
-        <!--
-          Gazette post 1 image slot
-          src -> post.image
-          alt -> post.image_alt
-          href -> /gearheads-gazette/[slug]
-        -->
-        <a class="gearheads-gazette-image-link" href="{{ post_1_url }}">
+        <!-- post.image -> src, post.image_alt -> alt, post.url -> href -->
+        <a class="gearheads-gazette-image-link" href="{{ post.url }}">
           <img
             class="gearheads-gazette-image"
-            src="{{ post_1_image }}"
-            alt="{{ post_1_image_alt }}"
+            src="{{ post.image }}"
+            alt="{{ post.image_alt }}"
           />
         </a>
 
         <div class="gearheads-gazette-content">
-          <!-- Gazette post 1 title slot -> post.title -->
-          <h3>{{ post_1_title }}</h3>
-          <!-- Gazette post 1 excerpt slot -> post.excerpt -->
-          <p>{{ post_1_excerpt }}</p>
-          <!-- Gazette post 1 CTA slot: text + /gearheads-gazette/[slug] -->
-          <a class="gearheads-gazette-button" href="{{ post_1_url }}">{{ post_1_cta_text }}</a>
+          <!-- post.title -> heading -->
+          <h3>{{ post.title }}</h3>
+          <!-- post.excerpt -> summary copy -->
+          <p>{{ post.excerpt }}</p>
+          <!-- CTA uses post.url; label can stay fixed or come from your renderer -->
+          <a class="gearheads-gazette-button" href="{{ post.url }}">{{ post.cta_text | default: "Read the Guide" }}</a>
         </div>
       </article>
-
-      <article class="gearheads-gazette-row">
-        <!--
-          Gazette post 2 image slot
-          src -> post.image
-          alt -> post.image_alt
-          href -> /gearheads-gazette/[slug]
-        -->
-        <a class="gearheads-gazette-image-link" href="{{ post_2_url }}">
-          <img
-            class="gearheads-gazette-image"
-            src="{{ post_2_image }}"
-            alt="{{ post_2_image_alt }}"
-          />
-        </a>
-
-        <div class="gearheads-gazette-content">
-          <!-- Gazette post 2 title slot -> post.title -->
-          <h3>{{ post_2_title }}</h3>
-          <!-- Gazette post 2 excerpt slot -> post.excerpt -->
-          <p>{{ post_2_excerpt }}</p>
-          <!-- Gazette post 2 CTA slot: text + /gearheads-gazette/[slug] -->
-          <a class="gearheads-gazette-button" href="{{ post_2_url }}">{{ post_2_cta_text }}</a>
-        </div>
-      </article>
+      <!-- end loop -->
     </div>
   </div>
 </section>
