@@ -2,44 +2,57 @@
 
 Content repo for Hobby Etc's Gearhead's Gazette articles, collection-page SEO blocks, and homepage content modules.
 
+## System Overview
+- Gazette articles live in `content/` as Markdown
+- Gazette article frontmatter should include:
+  `title`, `image`, `image_alt`, `excerpt`
+- Gazette post images live in `assets/gazette/posts/`
+- Image filenames should match the article slug
+- Gazette article URLs use `/gearheads-gazette/[slug]`
+
 ## What Lives Here
 - `content/` = Gearhead's Gazette article markdown
 - `collections/` = SEO content blocks for collection/category pages
 - `components/homepage/` = homepage modules, including Gearhead's Gazette
+- `components/gazette/` = Gazette article page template(s)
 - `data/` = reference/example data structures for module wiring
 - `docs/` = strategy, workflow, and system rules
 - `templates/` = reusable future templates if the repo grows into that structure
 
-## Current Repo Shape
-Current top-level folders in the repo are:
-- `content/`
-- `collections/`
-- `components/`
-- `docs/`
+## Rendering System
+There are two main Gazette render targets:
 
-If `data/`, `scripts/`, `src/`, or `output/` are added later, keep their existing documented purpose rather than redefining them casually.
+- Homepage module:
+  `components/homepage/gearheads-gazette-section.html`
+  Renders 2 latest or featured posts from post data
 
-## URL Conventions
-- Gazette articles: `/gearheads-gazette/[slug]`
-- Collection/category pages: `/collections/[slug]`
-- Fitment tool: `/vehicles`
+- Article page template:
+  `components/gazette/gazette-article-template.html`
+  Renders a full Gazette article using:
+  `article.title`, `article.image`, `article.image_alt`, `article.content`
+
+## Data Flow
+Markdown in `content/`
+-> frontmatter extracted
+-> converted to post objects
+-> optionally output as JSON
+-> rendered into the homepage module and article template
+
+Example data shape:
+- `data/gazette-posts-example.json`
 
 ## Content Rules
 - Blog posts should follow `content/blog-post-template.md`
-- Gazette posts in `content/` should include frontmatter for:
-  `title`, `image`, `image_alt`, and `excerpt`
 - Articles should use natural internal links, not forced link stuffing
 - CTAs should use the `Keep Your Rig Dialed` pattern
 - Keep links helpful and avoid over-linking
 - Gazette image standards live in `docs/gazette-image-standards.md`
 
-## Quick Workflow
-- Add or update Gazette articles in `content/`
-- Add or update collection SEO blocks in `collections/`
-- Add or update homepage modules in `components/homepage/`
-- Use `components/homepage/gearheads-gazette-section.html` for the Gazette homepage module
-- Use `data/gazette-posts-example.json` as the reference shape for module-fed post data
-- Check article links, collection links, and `/vehicles` fitment references before wrapping up
+## Developer Notes
+- `article.content` must be rendered as HTML converted from markdown
+- Do not escape article HTML as plain text
+- Default homepage CTA text to `Read the Guide` if `post.cta_text` is missing
+- Use frontmatter as the source of truth for Gazette post metadata
 
 ## Who This Is For
 This repo should be easy for Dan, Loren, and future Codex sessions to pick up quickly without reverse-engineering the content system first.

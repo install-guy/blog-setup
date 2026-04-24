@@ -5,6 +5,7 @@ This repo is the working content engine for Hobby Etc:
 - Gearhead's Gazette article markdown in `content/`
 - Collection SEO blocks in `collections/`
 - Homepage modules in `components/homepage/`
+- Gazette article templates in `components/gazette/`
 - Gazette data examples in `data/`
 
 ## Core Rules
@@ -16,18 +17,24 @@ This repo is the working content engine for Hobby Etc:
 
 ## Blog Post Standard
 - Use `content/blog-post-template.md` as the source of truth
-- Gazette posts should include frontmatter for `title`, `image`, `image_alt`, and `excerpt`
-- Include natural internal links only where they help
-- Use the `Keep Your Rig Dialed` CTA format
+- Always include frontmatter in new articles:
+  `title`, `image`, `image_alt`, `excerpt`
+- Follow Gazette image naming conventions in `assets/gazette/posts/`
+- Use `/gearheads-gazette/[slug]` for internal article links
+- Limit links to 5 or fewer per article
+- Include the `Keep Your Rig Dialed` section in articles
 - Avoid placeholders and instructional artifacts in finished content
-- Follow `docs/gazette-image-standards.md` for Gazette post image sizing and naming
 
-## Gazette Module Notes
-- Homepage module path: `components/homepage/gearheads-gazette-section.html`
-- Gazette post URLs must resolve to `/gearheads-gazette/[slug]`
+## Gazette Rendering Notes
+- Homepage module path:
+  `components/homepage/gearheads-gazette-section.html`
+- Article template path:
+  `components/gazette/gazette-article-template.html`
+- Homepage module should render 2 latest or featured posts
 - The module is designed to consume frontmatter-derived post data or a generated data file
 - Example data shape lives in `data/gazette-posts-example.json`
 - If `post.cta_text` is missing, renderer fallback should be `Read the Guide`
+- `article.content` must render as HTML converted from markdown and should not be escaped
 
 ## Working Guidance
 - Prefer direct file edits over abstract planning when the ask is clear
