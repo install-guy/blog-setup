@@ -1,22 +1,3 @@
-<!--
-Gearhead's Gazette Homepage Module
-
-Displays featured blog posts from the Gearhead's Gazette.
-
-Expected data per post:
-- post_X_title
-- post_X_excerpt
-- post_X_image
-- post_X_image_alt
-- post_X_url
-- post_X_cta_text
-
-Notes:
-- Designed for 2 posts currently (can scale to 4)
-- Layout is responsive (grid → stacked mobile)
-- Keep image aspect ratio consistent (19:11)
--->
-
 <section class="gearheads-gazette-module">
   <div class="gearheads-gazette-inner">
     <div class="gearheads-gazette-header">
@@ -29,42 +10,34 @@ Notes:
 
     <div class="gearheads-gazette-list">
       <article class="gearheads-gazette-row">
-        <!-- Gazette post slot: post image + post URL -->
-        <a class="gearheads-gazette-image-link" href="{{ post_1_url }}">
+        <a class="gearheads-gazette-image-link" href="#">
           <img
             class="gearheads-gazette-image"
-            src="{{ post_1_image }}"
-            alt="{{ post_1_image_alt }}"
+            src="https://hobbyetc.my.canva.site/kraton-promo-final-website/_assets/media/6f029b9ec8f60590a87daf350f040f39.png"
+            alt="Axial SCX30 parts and upgrades article"
           />
         </a>
 
         <div class="gearheads-gazette-content">
-          <!-- Gazette post slot: post title -->
-          <h3>{{ post_1_title }}</h3>
-          <!-- Gazette post slot: post excerpt -->
-          <p>{{ post_1_excerpt }}</p>
-          <!-- Gazette post slot: CTA text + post URL -->
-          <a class="gearheads-gazette-button" href="{{ post_1_url }}">{{ post_1_cta_text }}</a>
+          <h3>Axial SCX30 Parts &amp; Upgrades: Tiny Truck, Big Tinkering Energy</h3>
+          <p>If you’re here looking for Axial SCX30 parts, replacement bits, or wondering what to upgrade first, pull up a stool. We’ve been messing with these things, and we’ve got opinions...</p>
+          <a class="gearheads-gazette-button" href="#">Learn More</a>
         </div>
       </article>
 
       <article class="gearheads-gazette-row">
-        <!-- Gazette post slot: post image + post URL -->
-        <a class="gearheads-gazette-image-link" href="{{ post_2_url }}">
+        <a class="gearheads-gazette-image-link" href="#">
           <img
             class="gearheads-gazette-image"
-            src="{{ post_2_image }}"
-            alt="{{ post_2_image_alt }}"
+            src="https://hobbyetc.my.canva.site/kraton-promo-final-website/_assets/media/a94562722effa2cbf3713fec1efc5a0b.png"
+            alt="Flight simulator training article"
           />
         </a>
 
         <div class="gearheads-gazette-content">
-          <!-- Gazette post slot: post title -->
-          <h3>{{ post_2_title }}</h3>
-          <!-- Gazette post slot: post excerpt -->
-          <p>{{ post_2_excerpt }}</p>
-          <!-- Gazette post slot: CTA text + post URL -->
-          <a class="gearheads-gazette-button" href="{{ post_2_url }}">{{ post_2_cta_text }}</a>
+          <h3>Learn Before You Burn... a hole in your wallet</h3>
+          <p>Flight simulators let you practice on your computer before risking real gear. A little bench time can save you hundreds in busted wings...</p>
+          <a class="gearheads-gazette-button" href="#">Wheels Up</a>
         </div>
       </article>
     </div>
@@ -177,26 +150,26 @@ Notes:
     }
   }
 
-  @media (max-width: 700px) {
-    .gearheads-gazette-row {
-      grid-template-columns: 1fr;
-      row-gap: 14px;
-    }
-
-    .gearheads-gazette-image-link {
-      display: block;
-      width: 100%;
-      margin-bottom: 6px;
-    }
-
-    .gearheads-gazette-image {
-      width: 100%;
-      max-width: none;
-      margin: 0;
-    }
-
-    .gearheads-gazette-content {
-      text-align: left;
-    }
+ @media (max-width: 700px) {
+  .gearheads-gazette-row {
+    grid-template-columns: 1fr;
+    row-gap: 14px;
   }
+
+  .gearheads-gazette-image-link {
+    display: block;
+    width: 100%;
+    margin-bottom: 6px;
+  }
+
+  .gearheads-gazette-image {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+  }
+
+  .gearheads-gazette-content {
+    text-align: left;
+  }
+}
 </style>

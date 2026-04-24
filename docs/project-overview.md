@@ -1,12 +1,16 @@
 # Project Overview
 
-This repository supports the setup and structure of a blog/CMS system.
+This repository is the working content system for Hobby Etc's article, collection, and homepage content.
 
-Primary goals:
-- Define how blog content is structured
-- Create reusable templates for articles
-- Enable consistent formatting across posts
-- Support linking between content and products
-- Keep publishing simple and repeatable
+Primary areas:
+- `content/` for Gearhead's Gazette article markdown
+- `collections/` for collection/category SEO blocks
+- `components/homepage/` for homepage modules
+- `docs/` for workflow, rules, and project notes
 
-This project is not a full CMS build—it's the foundation and structure for one.
+Key URL rules:
+- Articles use `/gearheads-gazette/[slug]`
+- Collection pages use `/collections/[slug]`
+- Fitment links use `/vehicles`
+
+This is not a full CMS application. It is the content layer and working structure around one.

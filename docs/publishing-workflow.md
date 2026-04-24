@@ -1,21 +1,21 @@
 # Publishing Workflow
 
 ## Drafting
-- Create content using a simple editor
-- Follow the defined content model
-- Add internal links and images
+- Create Gazette articles in `content/`
+- Create collection SEO blocks in `collections/`
+- Create homepage modules in `components/homepage/`
+- Follow `content/blog-post-template.md` for article work
 
 ## Review
-- Check formatting and structure
-- Confirm links are correct
-- Ensure consistency with other posts
+- Check structure and formatting
+- Confirm article links use `/gearheads-gazette/[slug]`
+- Confirm collection links use `/collections/[slug]`
+- Confirm fitment links use `/vehicles`
+- Keep CTAs useful and avoid over-linking
 
-## Publishing
-- Publish to live site
-- Verify layout and responsiveness
+## Publish-Ready Check
+- Make sure the tone matches existing Hobby Etc content
+- Remove placeholders or instructional language
+- Verify layout behavior if the file is a homepage/component module
 
-## Post-Publish
-- Share content (email, social)
-- Monitor performance if needed
-
-The workflow should be simple, repeatable, and fast.
+The workflow should stay simple, repeatable, and fast.
