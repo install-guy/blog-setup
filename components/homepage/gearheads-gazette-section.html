@@ -14,13 +14,6 @@ Frontmatter mapping:
 Example data source:
 - /data/gazette-posts-example.json
 
-Data mapping inside this component:
-- post.title -> title
-- post.image -> image
-- post.image_alt -> alt
-- post.excerpt -> excerpt
-- post.url -> link
-
 Notes:
 - Render the first 2 posts from the Gazette posts array
 - Layout is responsive (grid to stacked mobile)
@@ -39,21 +32,19 @@ Notes:
 
     <div class="gearheads-gazette-list">
       <!--
-        Pseudo-loop example:
-        for each post in posts[0:2]:
-          render article row
+      Pseudo-loop:
+      for each post in posts[0:2]:
+        render this article row
 
-        Source shape:
-        {
-          "title": "...",
-          "image": "...",
-          "image_alt": "...",
-          "excerpt": "...",
-          "url": "/gearheads-gazette/[slug]"
-        }
+      post mapping:
+      - post.url -> link
+      - post.image -> image src
+      - post.image_alt -> image alt
+      - post.title -> heading
+      - post.excerpt -> summary text
+      - post.cta_text -> button label (fallback to "Read the Guide")
       -->
       <article class="gearheads-gazette-row">
-        <!-- post.image -> src, post.image_alt -> alt, post.url -> href -->
         <a class="gearheads-gazette-image-link" href="{{ post.url }}">
           <img
             class="gearheads-gazette-image"
@@ -63,15 +54,11 @@ Notes:
         </a>
 
         <div class="gearheads-gazette-content">
-          <!-- post.title -> heading -->
           <h3>{{ post.title }}</h3>
-          <!-- post.excerpt -> summary copy -->
           <p>{{ post.excerpt }}</p>
-          <!-- CTA uses post.url; label can stay fixed or come from your renderer -->
-          <a class="gearheads-gazette-button" href="{{ post.url }}">{{ post.cta_text | default: "Read the Guide" }}</a>
+          <a class="gearheads-gazette-button" href="{{ post.url }}">{{ post.cta_text }}</a>
         </div>
       </article>
-      <!-- end loop -->
     </div>
   </div>
 </section>
