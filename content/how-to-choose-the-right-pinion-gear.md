@@ -1,3 +1,9 @@
+---
+title: How to Choose the Right Pinion Gear Without Cooking Your Setup
+image: /assets/gazette/posts/how-to-choose-the-right-pinion-gear.jpg
+image_alt: RC pinion and spur gear setup close-up
+excerpt: Choose the right pinion gear by balancing speed, heat, punch, and reliability instead of guessing.
+---
 # How to Choose the Right Pinion Gear Without Cooking Your Setup
 
 ## Intro

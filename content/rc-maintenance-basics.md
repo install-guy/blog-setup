@@ -1,11 +1,17 @@
-# Brushed vs Brushless Motors: What’s Better for Your RC?
+---
+title: Brushed vs Brushless Motors: What's Better for Your RC?
+image: /assets/gazette/posts/rc-maintenance-basics.jpg
+image_alt: RC motor options on a bench
+excerpt: Compare brushed and brushless RC motors so you can choose what fits your vehicle, goals, and budget.
+---
+# Brushed vs Brushless Motors: Whatâ€™s Better for Your RC?
 
 ## Intro
-“Should I go brushless?”  
+â€œShould I go brushless?â€  
 
-We hear it all the time—and yeah, it’s a legit question.
+We hear it all the timeâ€”and yeah, itâ€™s a legit question.
 
-A brushless setup can completely wake a rig up. But that doesn’t mean brushed is dead.
+A brushless setup can completely wake a rig up. But that doesnâ€™t mean brushed is dead.
 
 It really comes down to how you drive, where you run, and what you actually want out of your RC.
 
@@ -33,9 +39,9 @@ What you get:
 - Less motor maintenance
 - Higher upfront cost (motor + ESC combo)
 
-Neither is automatically better—it just depends on your setup.
+Neither is automatically betterâ€”it just depends on your setup.
 
-👉 Explore motor and ESC options:  
+ðŸ‘‰ Explore motor and ESC options:  
 /collections/rc-motors-esc
 
 ---
@@ -43,9 +49,9 @@ Neither is automatically better—it just depends on your setup.
 ## Where Each Setup Makes Sense
 
 ### Brushed makes sense when:
-- You’re just getting into the hobby
+- Youâ€™re just getting into the hobby
 - You want to keep costs down
-- You’re running in tighter spaces
+- Youâ€™re running in tighter spaces
 - You want smooth, easy-to-control power
 
 Brushed setups are great for backyard bashing, learning, and keeping things simple.
@@ -54,8 +60,8 @@ Brushed setups are great for backyard bashing, learning, and keeping things simp
 
 ### Brushless makes sense when:
 - You want real speed and punch
-- You’re racing or pushing hard
-- You’re ready to dial in gearing and temps
+- Youâ€™re racing or pushing hard
+- Youâ€™re ready to dial in gearing and temps
 - Your drivetrain can handle the power
 
 Brushless shines when the whole setup is ready for it.
@@ -64,7 +70,7 @@ Brushless shines when the whole setup is ready for it.
 
 ## Before You Upgrade: 6 Things to Check
 
-Jumping to brushless without a plan? That’s how parts get smoked.
+Jumping to brushless without a plan? Thatâ€™s how parts get smoked.
 
 1. **Vehicle compatibility**  
    Make sure the motor size and ESC actually fit.
@@ -86,7 +92,7 @@ Jumping to brushless without a plan? That’s how parts get smoked.
 
 Know this first, and the decision gets easy.
 
-👉 Use the parts finder to confirm fitment:  
+ðŸ‘‰ Use the parts finder to confirm fitment:  
 /vehicles
 
 ---
@@ -101,27 +107,27 @@ Know this first, and the decision gets easy.
 
 A balanced setup will always outperform an overpowered one that overheats.
 
-👉 Find cooling, gearing, and drivetrain upgrades:  
+ðŸ‘‰ Find cooling, gearing, and drivetrain upgrades:  
 /collections/rc-performance-parts
 
 ---
 
 ## Real Talk
-Brushless is awesome—when it fits your build.
+Brushless is awesomeâ€”when it fits your build.
 
 But a dialed-in brushed setup? Still a blast.
 
-The goal isn’t just more speed. It’s a rig that feels right every time you pull the trigger.
+The goal isnâ€™t just more speed. Itâ€™s a rig that feels right every time you pull the trigger.
 
 ---
 
 ## CTA
 Ready to upgrade your power system?
 
-👉 Shop motors, ESCs, and upgrade parts  
+ðŸ‘‰ Shop motors, ESCs, and upgrade parts  
 /collections/rc-motors-esc  
 
-👉 Find what fits your exact vehicle  
+ðŸ‘‰ Find what fits your exact vehicle  
 /vehicles
 
 ---
@@ -131,4 +137,4 @@ Build it right.
 Tune it smart.  
 Drive it hard.
 
-That’s where the fun really starts.
+Thatâ€™s where the fun really starts.

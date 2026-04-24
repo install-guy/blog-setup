@@ -1,3 +1,8 @@
+---
+title: LiPo Batteries 101
+image: /assets/gazette/posts/lipo-batteries-101.jpg
+image_alt: LiPo battery setup and RC car
+---
 # LiPo Batteries 101: 3S vs 4S, Charging, Storage, and Safety
 
 ## Intro

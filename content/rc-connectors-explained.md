@@ -1,3 +1,9 @@
+---
+title: RC Connectors Explained
+image: /assets/gazette/posts/rc-connectors-explained.jpg
+image_alt: RC battery and ESC connectors on a bench
+excerpt: Understand RC connectors, connector match, and adapter risks so your power system stays reliable and cool.
+---
 # RC Connectors Explained
 
 ## Intro

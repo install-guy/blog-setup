@@ -1,3 +1,9 @@
+---
+title: RC Gear Mesh Explained
+image: /assets/gazette/posts/rc-gear-mesh-explained.jpg
+image_alt: RC spur and pinion gears on a workbench
+excerpt: Learn why RC gear mesh matters, what bad mesh feels like, and how to avoid noisy, hot drivetrain problems.
+---
 # RC Gear Mesh Explained
 
 ## Intro

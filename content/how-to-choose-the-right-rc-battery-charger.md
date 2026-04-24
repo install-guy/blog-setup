@@ -1,3 +1,9 @@
+---
+title: How to Choose the Right RC Battery Charger Without Overcomplicating It
+image: /assets/gazette/posts/how-to-choose-the-right-rc-battery-charger.jpg
+image_alt: RC battery charger and packs on a bench
+excerpt: Choose the right RC charger by focusing on wattage, battery support, and the way you actually charge packs.
+---
 # How to Choose the Right RC Battery Charger Without Overcomplicating It
 
 ## Intro

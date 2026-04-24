@@ -1,3 +1,9 @@
+---
+title: RC Bearing Maintenance Guide
+image: /assets/gazette/posts/rc-bearing-maintenance-guide.jpg
+image_alt: RC bearings and drivetrain parts on a bench
+excerpt: Keep RC bearings clean and replace them early so the drivetrain stays smooth, cooler, and easier to trust.
+---
 # RC Bearing Maintenance Guide
 
 ## Intro

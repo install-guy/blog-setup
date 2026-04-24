@@ -1,3 +1,9 @@
+---
+title: Why Your RC Slides Too Much
+image: /assets/gazette/posts/why-your-rc-slides-too-much.jpg
+image_alt: RC car sliding on loose terrain
+excerpt: Fix an RC that slides too much by checking tires, surface, power, and setup before blaming the driver.
+---
 # Why Your RC Slides Too Much
 
 ## Intro

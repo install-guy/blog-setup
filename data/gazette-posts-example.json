@@ -1,0 +1,30 @@
+[
+  {
+    "title": "How to Maintain Your RC Car",
+    "image": "/assets/gazette/posts/rc-car-maintenance.jpg",
+    "image_alt": "RC car on a workbench being maintained",
+    "excerpt": "Keep your RC running smoother, quieter, and more reliable with a simple maintenance routine.",
+    "url": "/gearheads-gazette/rc-car-maintenance"
+  },
+  {
+    "title": "LiPo Batteries 101",
+    "image": "/assets/gazette/posts/lipo-batteries-101.jpg",
+    "image_alt": "LiPo battery setup and RC car",
+    "excerpt": "Understand 3S, 4S, charging, and storage basics so your battery setup stays powerful and easy to live with.",
+    "url": "/gearheads-gazette/lipo-batteries-101"
+  },
+  {
+    "title": "Choosing the Right RC Tires: Match Grip to Terrain",
+    "image": "/assets/gazette/posts/choosing-the-right-rc-tires.jpg",
+    "image_alt": "RC tires lined up for different terrain types",
+    "excerpt": "Match your tires to the surface so the car feels more planted, more predictable, and easier to drive.",
+    "url": "/gearheads-gazette/choosing-the-right-rc-tires"
+  },
+  {
+    "title": "Brushed vs Brushless Motors: What's Better for Your RC?",
+    "image": "/assets/gazette/posts/brushed-vs-brushless-motors.jpg",
+    "image_alt": "Brushed and brushless RC motor setup on a bench",
+    "excerpt": "Compare brushed and brushless setups so you can choose the motor system that fits your rig and driving style.",
+    "url": "/gearheads-gazette/brushed-vs-brushless-motors"
+  }
+]

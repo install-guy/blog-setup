@@ -1,3 +1,9 @@
+---
+title: AC vs DC RC Chargers
+image: /assets/gazette/posts/ac-vs-dc-rc-chargers.jpg
+image_alt: RC charger setup on a workbench
+excerpt: Understand AC vs DC chargers so you can pick the right setup for home charging, track days, and portable power.
+---
 # AC vs DC RC Chargers
 
 ## Intro

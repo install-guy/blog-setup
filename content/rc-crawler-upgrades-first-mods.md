@@ -1,3 +1,9 @@
+---
+title: RC Crawler Upgrades: The First Mods That Actually Matter
+image: /assets/gazette/posts/rc-crawler-upgrades-first-mods.jpg
+image_alt: RC crawler with upgrade parts on a workbench
+excerpt: Focus crawler upgrades on traction, steering, and low weight where it counts instead of random bolt-ons.
+---
 # RC Crawler Upgrades: The First Mods That Actually Matter
 
 ## Intro

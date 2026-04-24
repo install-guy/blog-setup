@@ -1,3 +1,9 @@
+---
+title: LiPo Storage and Safety
+image: /assets/gazette/posts/lipo-storage-and-safety.jpg
+image_alt: LiPo batteries stored safely on a bench
+excerpt: Learn simple LiPo storage and safety habits that protect your packs, your setup, and your charging routine.
+---
 # LiPo Storage and Safety
 
 ## Intro

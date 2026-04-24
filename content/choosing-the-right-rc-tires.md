@@ -1,3 +1,9 @@
+---
+title: Choosing the Right RC Tires: Match Grip to Terrain
+image: /assets/gazette/posts/choosing-the-right-rc-tires.jpg
+image_alt: RC tires lined up for different terrain types
+excerpt: Match RC tires to pavement, dirt, loose terrain, and track use so your setup feels planted where you actually drive.
+---
 # Choosing the Right RC Tires: Match Grip to Terrain
 
 ## Intro

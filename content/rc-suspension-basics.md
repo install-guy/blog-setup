@@ -1,3 +1,9 @@
+---
+title: RC Suspension Basics: What Actually Makes a Rig Handle Better
+image: /assets/gazette/posts/rc-suspension-basics.jpg
+image_alt: RC suspension components and shocks on a bench
+excerpt: Learn the RC suspension basics that affect grip, handling, jumps, and overall chassis control.
+---
 # RC Suspension Basics: What Actually Makes a Rig Handle Better
 
 ## Intro

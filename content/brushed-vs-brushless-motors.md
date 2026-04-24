@@ -1,4 +1,10 @@
-# Brushed vs Brushless Motors: What’s Better for Your RC?
+---
+title: Brushed vs Brushless Motors: What's Better for Your RC?
+image: /assets/gazette/posts/brushed-vs-brushless-motors.jpg
+image_alt: Brushed and brushless RC motor setup on a bench
+excerpt: Compare brushed and brushless RC motors so you can choose the setup that fits your rig, budget, and driving style.
+---
+# Brushed vs Brushless Motors: Whatâ€™s Better for Your RC?
 
 ## Intro
 "Should I go brushless?"

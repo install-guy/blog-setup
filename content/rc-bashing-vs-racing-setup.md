@@ -1,3 +1,9 @@
+---
+title: RC Bashing vs Racing Setup: Build for How You Actually Drive
+image: /assets/gazette/posts/rc-bashing-vs-racing-setup.jpg
+image_alt: RC cars set up for bashing and racing
+excerpt: Learn how bashing and racing setups differ so you can tune tires, suspension, and gearing for the right use.
+---
 # RC Bashing vs Racing Setup: Build for How You Actually Drive
 
 ## Intro

@@ -1,3 +1,9 @@
+---
+title: How to Choose the Right RC Battery Without Guessing
+image: /assets/gazette/posts/how-to-choose-rc-battery.jpg
+image_alt: RC battery packs beside a vehicle tray
+excerpt: Learn how capacity, C rating, voltage, and fitment affect the right RC battery choice for your setup.
+---
 # How to Choose the Right RC Battery Without Guessing
 
 ## Intro

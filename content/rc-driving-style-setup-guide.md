@@ -1,3 +1,9 @@
+---
+title: How Driving Style Affects Your RC Setup: Bashing vs Racing vs Crawling
+image: /assets/gazette/posts/rc-driving-style-setup-guide.jpg
+image_alt: Different RC vehicles set up for different driving styles
+excerpt: Tune your RC around bashing, racing, or crawling so the setup actually matches the way you drive.
+---
 # How Driving Style Affects Your RC Setup: Bashing vs Racing vs Crawling
 
 ## Intro

@@ -1,3 +1,9 @@
+---
+title: RC Motor Temperature Guide: How Hot Is Too Hot?
+image: /assets/gazette/posts/rc-motor-temperature-guide.jpg
+image_alt: Temperature check on an RC motor
+excerpt: Learn what motor temps are too hot and how gearing, tires, and airflow affect heat in your RC setup.
+---
 # RC Motor Temperature Guide: How Hot Is Too Hot?
 
 ## Intro

@@ -1,3 +1,9 @@
+---
+title: RC Shock Oil Explained
+image: /assets/gazette/posts/rc-shock-oil-explained.jpg
+image_alt: RC shocks and shock oil bottles on a bench
+excerpt: Understand RC shock oil weight so you can tune damping, jumps, and rough-terrain handling with confidence.
+---
 # RC Shock Oil Explained
 
 ## Intro

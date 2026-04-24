@@ -1,3 +1,9 @@
+---
+title: RC Tire Compounds Explained: Soft vs Medium vs Hard
+image: /assets/gazette/posts/rc-tire-compounds-explained.jpg
+image_alt: RC tires showing different rubber compounds
+excerpt: Learn how soft, medium, and hard RC tire compounds affect grip, wear, and real-world handling feel.
+---
 # RC Tire Compounds Explained: Soft vs Medium vs Hard
 
 ## Intro

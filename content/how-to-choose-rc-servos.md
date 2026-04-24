@@ -1,3 +1,9 @@
+---
+title: How to Choose RC Servos
+image: /assets/gazette/posts/how-to-choose-rc-servos.jpg
+image_alt: RC servo and steering parts on a workbench
+excerpt: Pick the right RC servo by understanding torque, speed, waterproofing, gear durability, and fitment.
+---
 # How to Choose RC Servos
 
 ## Intro

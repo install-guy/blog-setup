@@ -28,6 +28,7 @@ If `data/`, `scripts/`, `src/`, or `output/` are added later, keep their existin
 - Articles should use natural internal links, not forced link stuffing
 - CTAs should use the `Keep Your Rig Dialed` pattern
 - Keep links helpful and avoid over-linking
+- Gazette image standards live in `docs/gazette-image-standards.md`
 
 ## Quick Workflow
 - Add or update Gazette articles in `content/`

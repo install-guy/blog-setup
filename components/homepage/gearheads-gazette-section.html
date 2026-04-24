@@ -1,19 +1,27 @@
 <!--
 Gearhead's Gazette Homepage Module
 
-Displays featured blog posts from the Gearhead's Gazette.
+This component should render the latest or featured Gazette posts by reading
+article frontmatter from /content/*.md.
 
-Expected data per post:
-- post_X_title
-- post_X_excerpt
-- post_X_image
-- post_X_image_alt
-- post_X_url
-- post_X_cta_text
+Frontmatter mapping:
+- title -> post.title
+- image -> post.image
+- image_alt -> post.image_alt
+- excerpt -> post.excerpt
+- slug -> /gearheads-gazette/[slug]
+
+Homepage placeholder mapping:
+- {{ post_1_title }}
+- {{ post_1_image }}
+- {{ post_1_image_alt }}
+- {{ post_1_excerpt }}
+- {{ post_1_url }}
+- {{ post_1_cta_text }}
 
 Notes:
-- Designed for 2 posts currently (can scale to 4)
-- Layout is responsive (grid → stacked mobile)
+- Designed for 2 posts currently (can scale to more later)
+- Layout is responsive (grid to stacked mobile)
 - Keep image aspect ratio consistent (19:11)
 -->
 
@@ -29,7 +37,12 @@ Notes:
 
     <div class="gearheads-gazette-list">
       <article class="gearheads-gazette-row">
-        <!-- Gazette post slot: post image + post URL -->
+        <!--
+          Gazette post 1 image slot
+          src -> post.image
+          alt -> post.image_alt
+          href -> /gearheads-gazette/[slug]
+        -->
         <a class="gearheads-gazette-image-link" href="{{ post_1_url }}">
           <img
             class="gearheads-gazette-image"
@@ -39,17 +52,22 @@ Notes:
         </a>
 
         <div class="gearheads-gazette-content">
-          <!-- Gazette post slot: post title -->
+          <!-- Gazette post 1 title slot -> post.title -->
           <h3>{{ post_1_title }}</h3>
-          <!-- Gazette post slot: post excerpt -->
+          <!-- Gazette post 1 excerpt slot -> post.excerpt -->
           <p>{{ post_1_excerpt }}</p>
-          <!-- Gazette post slot: CTA text + post URL -->
+          <!-- Gazette post 1 CTA slot: text + /gearheads-gazette/[slug] -->
           <a class="gearheads-gazette-button" href="{{ post_1_url }}">{{ post_1_cta_text }}</a>
         </div>
       </article>
 
       <article class="gearheads-gazette-row">
-        <!-- Gazette post slot: post image + post URL -->
+        <!--
+          Gazette post 2 image slot
+          src -> post.image
+          alt -> post.image_alt
+          href -> /gearheads-gazette/[slug]
+        -->
         <a class="gearheads-gazette-image-link" href="{{ post_2_url }}">
           <img
             class="gearheads-gazette-image"
@@ -59,11 +77,11 @@ Notes:
         </a>
 
         <div class="gearheads-gazette-content">
-          <!-- Gazette post slot: post title -->
+          <!-- Gazette post 2 title slot -> post.title -->
           <h3>{{ post_2_title }}</h3>
-          <!-- Gazette post slot: post excerpt -->
+          <!-- Gazette post 2 excerpt slot -> post.excerpt -->
           <p>{{ post_2_excerpt }}</p>
-          <!-- Gazette post slot: CTA text + post URL -->
+          <!-- Gazette post 2 CTA slot: text + /gearheads-gazette/[slug] -->
           <a class="gearheads-gazette-button" href="{{ post_2_url }}">{{ post_2_cta_text }}</a>
         </div>
       </article>
@@ -116,6 +134,7 @@ Notes:
   .gearheads-gazette-image-link {
     display: block;
     width: 100%;
+    margin-bottom: 0;
   }
 
   .gearheads-gazette-image {

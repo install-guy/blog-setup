@@ -1,3 +1,9 @@
+---
+title: New Axial RC Releases + The First Upgrades You Should Actually Do
+image: /assets/gazette/posts/new-axial-rc-upgrades-guide.jpg
+image_alt: Axial crawler with upgrade parts on a bench
+excerpt: Start Axial upgrades the smart way by fixing weak points first instead of throwing random parts at the rig.
+---
 # New Axial RC Releases + The First Upgrades You Should Actually Do
 
 ## Intro

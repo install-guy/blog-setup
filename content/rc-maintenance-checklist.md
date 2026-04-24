@@ -1,3 +1,9 @@
+---
+title: RC Car Maintenance Checklist: A 5-Minute Post-Run Routine
+image: /assets/gazette/posts/rc-maintenance-checklist.jpg
+image_alt: RC car being checked after a run
+excerpt: Use this quick RC maintenance checklist to catch rough bearings, loose hardware, and wear before they spread.
+---
 # RC Car Maintenance Checklist: A 5-Minute Post-Run Routine
 
 ## Intro

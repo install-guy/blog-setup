@@ -18,6 +18,7 @@ This repo is the working content engine for Hobby Etc:
 - Include natural internal links only where they help
 - Use the `Keep Your Rig Dialed` CTA format
 - Avoid placeholders and instructional artifacts in finished content
+- Follow `docs/gazette-image-standards.md` for Gazette post image sizing and naming
 
 ## Working Guidance
 - Prefer direct file edits over abstract planning when the ask is clear

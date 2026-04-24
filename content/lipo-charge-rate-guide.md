@@ -1,3 +1,9 @@
+---
+title: How to Set the Correct Charge Rate for LiPo Batteries
+image: /assets/gazette/posts/lipo-charge-rate-guide.jpg
+image_alt: LiPo battery charging on a bench charger
+excerpt: Set the correct LiPo charge rate with simple 1C guidance that keeps packs healthy and charging routines easy.
+---
 # How to Set the Correct Charge Rate for LiPo Batteries
 
 ## Intro

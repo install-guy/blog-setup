@@ -1,3 +1,9 @@
+---
+title: How to Tell If Your RC Motor Is Overheating Before It Fails
+image: /assets/gazette/posts/rc-motor-overheating-guide.jpg
+image_alt: RC motor and ESC after a hard run
+excerpt: Spot overheating signs early so you can fix gearing, drag, or airflow problems before a motor gives up.
+---
 # How to Tell If Your RC Motor Is Overheating Before It Fails
 
 ## Intro

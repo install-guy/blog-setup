@@ -1,3 +1,8 @@
+---
+title: How to Maintain Your RC Car
+image: /assets/gazette/posts/rc-car-maintenance.jpg
+image_alt: RC car on a workbench ready for maintenance
+---
 # How to Maintain Your RC Car Without Turning It Into a Full-Time Job
 
 ## Intro
