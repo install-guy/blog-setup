@@ -3,7 +3,7 @@
     <div class="gearheads-gazette-header">
       <img
         class="gearheads-gazette-logo"
-        src="https://hobbyetc.my.canva.site/kraton-promo-final-website/_assets/media/826f1cced0bc29bc0efa2151ef80bfd5.png"
+        src="https://hobbyetc.my.canva.site/kraton-promo-final-website/_assets/media/af78cd0712dc6b0beb688812b32cdb2d.png"
         alt="Gearhead's Gazette"
       />
     </div>
@@ -17,6 +17,7 @@
             alt="Axial SCX30 parts and upgrades article"
           />
         </a>
+
         <div class="gearheads-gazette-content">
           <h3>Axial SCX30 Parts &amp; Upgrades: Tiny Truck, Big Tinkering Energy</h3>
           <p>If you’re here looking for Axial SCX30 parts, replacement bits, or wondering what to upgrade first, pull up a stool. We’ve been messing with these things, and we’ve got opinions...</p>
@@ -32,6 +33,7 @@
             alt="Flight simulator training article"
           />
         </a>
+
         <div class="gearheads-gazette-content">
           <h3>Learn Before You Burn... a hole in your wallet</h3>
           <p>Flight simulators let you practice on your computer before risking real gear. A little bench time can save you hundreds in busted wings...</p>
@@ -45,50 +47,62 @@
 <style>
   .gearheads-gazette-module {
     background: #ffffff;
-    padding: 40px 20px 56px;
+    padding: 40px 0 56px;
     font-family: Roboto, Arial, sans-serif;
   }
 
   .gearheads-gazette-inner {
     max-width: 980px;
     margin: 0 auto;
+    padding: 0 24px;
+    box-sizing: border-box;
   }
 
   .gearheads-gazette-header {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 28px;
+    width: 100%;
+    text-align: center;
   }
 
   .gearheads-gazette-logo {
     display: block;
-    width: min(100%, 420px);
+    width: min(420px, 90%);
+    max-width: 100%;
     height: auto;
+    margin: 0 auto 28px;
   }
 
   .gearheads-gazette-list {
     display: flex;
     flex-direction: column;
     gap: 28px;
+    width: 100%;
   }
 
   .gearheads-gazette-row {
     display: grid;
     grid-template-columns: 190px minmax(0, 1fr);
-    gap: 24px;
-    align-items: start;
+    column-gap: 24px;
+    align-items: center;
+    width: 100%;
   }
 
   .gearheads-gazette-image-link {
     display: block;
+    width: 100%;
   }
 
   .gearheads-gazette-image {
     display: block;
-    width: 190px;
-    height: 110px;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 19 / 11;
     object-fit: cover;
     border-radius: 12px;
+  }
+
+  .gearheads-gazette-content {
+    min-width: 0;
+    overflow: hidden;
   }
 
   .gearheads-gazette-content h3 {
@@ -105,7 +119,6 @@
     line-height: 1.6;
     font-weight: 400;
     color: #1f1f1f;
-    max-width: 620px;
   }
 
   .gearheads-gazette-button {
@@ -129,26 +142,34 @@
 
   @media (max-width: 767px) {
     .gearheads-gazette-module {
-      padding: 32px 16px 44px;
+      padding: 32px 0 44px;
     }
 
-    .gearheads-gazette-header {
-      margin-bottom: 24px;
-    }
-
-    .gearheads-gazette-row {
-      grid-template-columns: 1fr;
-      gap: 14px;
-    }
-
-    .gearheads-gazette-image {
-      width: 100%;
-      height: auto;
-      aspect-ratio: 19 / 11;
-    }
-
-    .gearheads-gazette-content p {
-      max-width: none;
+    .gearheads-gazette-inner {
+      padding: 0 16px;
     }
   }
+
+ @media (max-width: 700px) {
+  .gearheads-gazette-row {
+    grid-template-columns: 1fr;
+    row-gap: 14px;
+  }
+
+  .gearheads-gazette-image-link {
+    display: block;
+    width: 100%;
+    margin-bottom: 6px;
+  }
+
+  .gearheads-gazette-image {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+  }
+
+  .gearheads-gazette-content {
+    text-align: left;
+  }
+}
 </style>
